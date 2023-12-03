@@ -47,6 +47,9 @@ h5 {
 #heading{
   color: orange;
 }
+#heading:hover{
+  color: #f24e1e;;
+}
 h1:hover,
 h2:hover,
 h3:hover,
