@@ -44,7 +44,9 @@ h5 {
   line-height: 1.2;
   border-radius: 22px;
 }
-
+#heading{
+  color: orange;
+}
 h1:hover,
 h2:hover,
 h3:hover,
@@ -1117,11 +1119,13 @@ h1 {
     position: absolute;
     top: 0;
     left: 0;
-    width: 77px; /* Adjust the width as needed */
-    height: 70px; /* Adjust the height as needed */
+    width: 80px; /* Adjust the width as needed */
+    height: 90px; /* Adjust the height as needed */
     margin-left: 320px;
-    margin-left: -5px;
-    margin-top: -17px;
+    margin-left: 3px;
+    margin-top: -20px;
+    /* margin-left: 352px;
+    margin-top: 20px;  */
     animation: slideInFromLeft 0.5s forwards;
   }
   @keyframes slideInFromLeft {
